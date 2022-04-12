@@ -1,3 +1,2 @@
-# Widyanto-www.github.io
-GitHub Page
+# www.Widyanto-www.github.io
 Just starting out a GitHub Page :)
